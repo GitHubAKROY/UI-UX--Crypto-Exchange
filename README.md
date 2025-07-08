@@ -1,0 +1,1 @@
+<p>This page was designed by me using Figma. I focused on creating a clean, user-friendly interface with proper alignment, spacing, typography, and color harmony. The layout is fully responsive and structured to ensure a smooth user experience. I also created interactive prototypes to demonstrate user flow and functionality.</p>
